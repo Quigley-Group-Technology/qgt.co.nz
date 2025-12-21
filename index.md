@@ -1,3 +1,8 @@
+---
+layout: default
+title: QGT
+---
+
 # Quigley Group Technology Limited.
 Computer software publishing
 

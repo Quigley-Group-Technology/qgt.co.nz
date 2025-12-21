@@ -7,7 +7,6 @@
     body {
       margin: 0;
       padding: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
     }
 
     .container {
@@ -22,15 +21,15 @@
   </style>
 </head>
 <body>
+  <div class="container">
+      <nav>
+      <a href="{{ '/' | relative_url }}">Home</a> |
+      <a href="{{ '/Privacy/' | relative_url }}">Privacy</a>
+    </nav>
 
-  <nav>
-    <a href="{{ '/' | relative_url }}">Home</a> |
-    <a href="{{ '/Privacy/' | relative_url }}">Privacy</a>
-  </nav>
+    <hr>
 
-  <hr>
-
-  {{ content }}
-
+    {{ content }}
+  </div>
 </body>
 </html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+
+  <nav>
+    <a href="{{ '/' | relative_url }}">Home</a> |
+    <a href="{{ '/Privacy/' | relative_url }}">Privacy</a>
+  </nav>
+
+  <hr>
+
+  {{ content }}
+
+</body>
+</html>

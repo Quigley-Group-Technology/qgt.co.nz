@@ -13,6 +13,6 @@ Computer software publishing
 Co-Founder, Managing Director:
 	Angus: 	<angus@qgt.co.nz>
 
-Co-Founder, Principle Software Engineer:
+Co-Founder, Principal Software Engineer:
 	Kurt:	<kurt@qgt.co.nz>
 

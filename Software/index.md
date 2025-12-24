@@ -17,11 +17,3 @@ title: Software
 ## Purpose
 
 The application addresses the need for accessible, locally-focused financial management tools. Āku Rawa provides New Zealanders with practical resources to take control of their finances.
-
-## Development Status
-
-Āku Rawa is currently in active development. For inquiries or updates on the application's release, please [contact us](/contact/).
-
----
-
-The name "Āku Rawa" translates to "my wealth" or "my resources" in te reo Māori.
